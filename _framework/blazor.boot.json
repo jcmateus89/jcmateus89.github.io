@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BPCWeb.dll": "sha256-zhdClyd2Gq9lEAwogH6g42CPf3d9aZf77NogKeNVXhM=",
+      "BPCWeb.dll": "sha256-BaYCviffEH03tnEOagjCHhBn7oPU27qZL54a\/LOW98s=",
       "Microsoft.AspNetCore.Components.dll": "sha256-2a1Fgyf9Qc7a19pc0VhyCv9AxM1Uy3Ln7QQ86ZOT5TE=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-TPS\/RSZ2a6s1dGLlyge7lx6YaRLmbSsXVuEK9\/vRLXU=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-bEqCwBBx71PZG79JxRVcwiDrTVL2iMS1aamxtrZczQ8=",
